@@ -2,6 +2,7 @@
 
 **An interactive Power BI dashboard that analyzes multi-year sales performance using the AdventureWorks dataset.**  
 It provides insight into revenue, cost, and profit trends by product, region, customer type, and sales channel.
+Through interactive visualizations and custom measures, the dashboard provides actionable insights into revenue trends, profit margins, and operational efficiency. It also demonstrates advanced use of Power Query for data cleaning and Power BI’s data modeling capabilities across multiple related tables.
 
 ---
 ## Dataset Overview
