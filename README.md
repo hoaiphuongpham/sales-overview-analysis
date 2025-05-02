@@ -85,17 +85,10 @@ It provides insight into revenue, cost, and profit trends by product, region, cu
 
 ## License & Attribution
 
-/pricing-analyst-dashboard/
-├── SalesData.csv       # Clean dataset used in Power BI
-├── Financial Dashboard 2025.pbix                    # Power BI dashboard file
-└── README.md                         # This file
+- Dataset sourced from Microsoft’s **AdventureWorks** (available via [Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables)).
+- Dashboard created for educational and portfolio purposes.
 
 ---
 
 ## File Structure
-
-/sales-overview-analysis/
-├── SalesData.csv       # Clean dataset used in Power BI
-├── Financial Dashboard 2025.pbix                    # Power BI dashboard file
-└── README.md                         # This file
 
