@@ -4,15 +4,6 @@
 It provides insight into revenue, cost, and profit trends by product, region, customer type, and sales channel.
 
 ---
-
-## File Structure
-
-/sales-overview-analysis/
-├── Tables 2010_2014.xlsx # Source data (SQL-style tables from AdventureWorks)
-├── Sales Overview Dashboard_Adventure Works.pbix # Power BI dashboard file
-├── Screenshot_page01.jpg # Preview image of the dashboard (for GitHub display)
-└── README.md # This file
----
 ## Dataset Overview
 - Based on the AdventureWorks dataset (publicly available)
 - Includes multiple worksheets (Sales, Products, Customers, Territories, etc.)
@@ -96,4 +87,13 @@ It provides insight into revenue, cost, and profit trends by product, region, cu
 
 - Dataset sourced from Microsoft’s **AdventureWorks** (available via [Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables)).
 - Dashboard created for educational and portfolio purposes.
+
+---
+
+## File Structure
+
+/sales-overview-analysis/
+├── SalesData.csv       # Clean dataset used in Power BI
+├── Financial Dashboard 2025.pbix                    # Power BI dashboard file
+└── README.md                         # This file
 
