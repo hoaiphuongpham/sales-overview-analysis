@@ -6,12 +6,12 @@ It provides insight into revenue, cost, and profit trends by product, region, cu
 ---
 
 ## Project Structure
-/sales-overview-analysis/
-├── SalesData.xlsx # Source data (SQL-style tables from AdventureWorks)
-├── Dashboard.pbix # Power BI dashboard file (optional if shared)
-├── Screenshot.png # Preview image of the dashboard (for GitHub display)
+/sales-overview-analysis
+│
+├── Tables 2010_2014.xlsx # Source data (SQL-style tables from AdventureWorks)
+├── Sales Overview Dashboard_Adventure Works.pbix # Power BI dashboard file
+├── Screenshot_page01.jpg # Preview image of the dashboard (for GitHub display)
 └── README.md # This file
-
 ---
 ## Dataset Overview
 - Based on the AdventureWorks dataset (publicly available)
