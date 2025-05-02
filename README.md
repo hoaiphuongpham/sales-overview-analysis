@@ -20,7 +20,7 @@ It provides insight into revenue, cost, and profit trends by product, region, cu
   
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 | KPI                        | Value        |
 |----------------------------|--------------|
@@ -77,7 +77,7 @@ It provides insight into revenue, cost, and profit trends by product, region, cu
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![image alt](https://github.com/hoaiphuongpham/sales-overview-analysis/blob/51fd0bb2fd1fdc8c445f2a0e0721ed23571204bb/Screenshot_page01.jpg)
 
