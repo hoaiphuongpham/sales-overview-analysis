@@ -89,7 +89,4 @@ Through interactive visualizations and custom measures, the dashboard provides a
 - Dataset sourced from Microsoft’s **AdventureWorks** (available via [Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables)).
 - Dashboard created for educational and portfolio purposes.
 
----
-
-## File Structure
 
